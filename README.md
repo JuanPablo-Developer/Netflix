@@ -6,4 +6,4 @@ que lo intentes tu tambien.
 
 
 ## Mira la imitacion de Netflix  👇 
-> Link <a href="https://juanpablo-developer.github.io/Google/google.html">aqui</a>
+> Link <a href="https://juanpablo-developer.github.io/Netflix/netflix.html">aqui</a>
